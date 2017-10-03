@@ -1,0 +1,35 @@
+{
+  "index.html": {
+    "resources": [
+      "js/swiper.animate1.0.2.min.js",
+      "img/b5.png",
+      "css/animate.css",
+      "js/swiper.min.js",
+      "img/a2.png",
+      "img/b3.png",
+      "img/xin.png",
+      "img/c1.png",
+      "img/b7.png",
+      "mp3/wedding.mp3",
+      "img/b6.png",
+      "img/bg-music.gif",
+      "img/c9.png",
+      "img/c8.png",
+      "img/c5.png",
+      "img/b1.png",
+      "css/swiper-3.3.1.min.css",
+      "img/b8.png",
+      "iconfont/iconfont.css",
+      "img/a3.png",
+      "css/main.css",
+      "img/c3.png",
+      "img/xin2.png",
+      "img/b2.png",
+      "img/c4.png",
+      "img/c6.png",
+      "img/b4.png",
+      "iconfont/iconfont.woff",
+      "img/sanjiao.png"
+    ]
+  }
+}
